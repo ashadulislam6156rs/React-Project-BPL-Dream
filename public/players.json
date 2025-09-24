@@ -1,0 +1,222 @@
+[
+  {
+    "id": 101,
+    "name": "Shakib Al Hasan",
+    "image": "https://i.ibb.co/bggDxRqt/shakib-al-hasan.webp",
+    "district": "Magura",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "role": "All-rounder",
+    "price_usd": 250000,
+    "rating": 10
+  },
+  {
+    "id": 102,
+    "name": "Mushfiqur Rahim",
+    "image": "https://i.ibb.co/cSzhH8hB/Mushfiqur-Rahim.jpg",
+    "district": "Bogra",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "N/A",
+    "role": "Wicketkeeper-batsman",
+    "price_usd": 180000,
+    "rating": 9
+  },
+  {
+    "id": 103,
+    "name": "Mahmudullah Riyad",
+    "image": "https://i.ibb.co/9mvMnKXG/Mahmudullah.webp",
+    "district": "Mymensingh",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "role": "All-rounder",
+    "price_usd": 150000,
+    "rating": 8
+  },
+  {
+    "id": 104,
+    "name": "Litton Das",
+    "image": "https://i.ibb.co/qhs3xZk/Litton.jpg",
+    "district": "Dinajpur",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "role": "Wicketkeeper-batsman",
+    "price_usd": 140000,
+    "rating": 8
+  },
+  {
+    "id": 105,
+    "name": "Tamim Iqbal",
+    "image": "https://i.ibb.co/F4tr8VF2/Tamim.jpg",
+    "district": "Chittagong",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "N/A",
+    "role": "Batsman",
+    "price_usd": 160000,
+    "rating": 9
+  },
+  {
+    "id": 106,
+    "name": "Najmul Hossain Shanto",
+    "image": "https://i.ibb.co/ZRdFvwzv/Najmul-Hossain-Shanto.jpg",
+    "district": "Rajshahi",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "role": "Batsman",
+    "price_usd": 130000,
+    "rating": 8
+  },
+  {
+    "id": 107,
+    "name": "Taskin Ahmed",
+    "image": "https://i.ibb.co/6cK3pk9t/Taskin-Ahmed.webp",
+    "district": "Dhaka",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm fast",
+    "role": "Bowler",
+    "price_usd": 120000,
+    "rating": 8
+  },
+  {
+    "id": 108,
+    "name": "Mustafizur Rahman",
+    "image": "https://i.ibb.co/LhSY0Qqq/Mustafizur-Rahman.jpg",
+    "district": "Satkhira",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Left-arm fast-medium",
+    "role": "Bowler",
+    "price_usd": 145000,
+    "rating": 9
+  },
+  {
+    "id": 109,
+    "name": "Shoriful Islam",
+    "image": "https://i.ibb.co/JWpMKnwg/Shoriful-Islam.webp",
+    "district": "Panchagarh",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Left-arm medium-fast",
+    "role": "Bowler",
+    "price_usd": 90000,
+    "rating": 7
+  },
+  {
+    "id": 110,
+    "name": "Soumya Sarkar",
+    "image": "https://i.ibb.co/5hXSzgzb/Soumya-Sarkar.jpg",
+    "district": "Satkhira",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm medium",
+    "role": "All-rounder",
+    "price_usd": 110000,
+    "rating": 7
+  },
+  {
+    "id": 111,
+    "name": "Mehidy Hasan Miraz",
+    "image": "https://i.ibb.co/DZRLN31/Mehidy-Hasan-Miraz.webp",
+    "district": "Khulna",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "role": "All-rounder",
+    "price_usd": 125000,
+    "rating": 8
+  },
+  {
+    "id": 112,
+    "name": "Tanzid Hasan Tamim",
+    "image": "https://i.ibb.co/M5yXcrTC/Tanzid-Hasan-Tamim.jpg",
+    "district": "Bogura",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "N/A",
+    "role": "Batsman",
+    "price_usd": 75000,
+    "rating": 6
+  },
+  {
+    "id": 113,
+    "name": "Towhid Hridoy",
+    "image": "https://i.ibb.co/Xf55HgKv/towhid-hridoy.jpg",
+    "district": "Mymensingh",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "role": "Batsman",
+    "price_usd": 85000,
+    "rating": 7
+  },
+  {
+    "id": 114,
+    "name": "Hasan Mahmud",
+    "image": "https://i.ibb.co/tpjG2q6v/Hasan-Mahmud.webp",
+    "district": "Lakshmipur",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast-medium",
+    "role": "Bowler",
+    "price_usd": 70000,
+    "rating": 6
+  },
+  {
+    "id": 115,
+    "name": "Afif Hossain Dhrubo",
+    "image": "https://i.ibb.co/0pBqdrVH/Afif-Hossain-Dhrubo.jpg",
+    "district": "Khulna",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "role": "All-rounder",
+    "price_usd": 80000,
+    "rating": 7
+  },
+  {
+    "id": 116,
+    "name": "Mahedi Hasan",
+    "image": "https://i.ibb.co/Y7rTjH9v/Mahedi-Hasan-Khela71.jpg",
+    "district": "Khulna",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "role": "All-rounder",
+    "price_usd": 72000,
+    "rating": 7
+  },
+  {
+    "id": 117,
+    "name": "Ebadot Hossain",
+    "image": "https://i.ibb.co/ZRc1QMw4/ebadot-hossain.jpg",
+    "district": "Sylhet",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast-medium",
+    "role": "Bowler",
+    "price_usd": 65000,
+    "rating": 6
+  },
+  {
+    "id": 118,
+    "name": "Yasir Ali Chowdhury",
+    "image": "https://i.ibb.co/jPtK57b0/yasir-ali.jpg",
+    "district": "Chittagong",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "role": "Batsman",
+    "price_usd": 60000,
+    "rating": 6
+  },
+  {
+    "id": 119,
+    "name": "Anamul Haque Bijoy",
+    "image": "https://i.ibb.co/4RfCTrRv/Anamul-Haque-Bijoy.jpg",
+    "district": "Khulna",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "N/A",
+    "role": "Wicketkeeper-batsman",
+    "price_usd": 70000,
+    "rating": 7
+  },
+  {
+    "id": 120,
+    "name": "Jaker Ali Anik",
+    "image": "https://i.ibb.co/Jw2tvtrJ/Jaker-Ali-Anik.jpg",
+    "district": "Habiganj",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "N/A",
+    "role": "Wicketkeeper-batsman",
+    "price_usd": 55000,
+    "rating": 6
+  }
+]
